@@ -7,25 +7,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta http-equiv="Content-type:text/html;charset=utf-8">
-    <link href="/LoveBirthday/static/css/app.css" media="all" rel="stylesheet">
-    <link href="/LoveBirthday/static/css/home.css" media="print" rel="stylesheet">
+    <link href="/static/css/app.css" media="all" rel="stylesheet">
+    <link href="/static/css/home.css" media="print" rel="stylesheet">
  </head>
   <body class="site-controller aws-action">
     <div class="site-container js-site-container">
 	
 	  <div class="jumbotron cloud-animation">
 	  	<div class="container" style="bottom:0px">
-		    <img alt="Cloud 1" class="cloud cloud-1" src="/LoveBirthday/static/img/cloud-1.png" width="300">
-		    <img alt="Cloud 2" class="cloud cloud-2" src="/LoveBirthday/static/img/cloud-2.png" width="347">
-		    <img alt="Cloud 3" class="cloud cloud-3" src="/LoveBirthday/static/img/cloud-3.png" width="470">
-		    <img alt="Cloud 4" class="cloud cloud-4" src="/LoveBirthday/static/img/cloud-4.png" width="762">
-		    <img alt="Cloud 5" class="cloud cloud-5" src="/LoveBirthday/static/img/cloud-5.png" width="589">
-		    <img alt="Cloud 6" class="cloud cloud-6" src="/LoveBirthday/static/img/cloud-6.png" width="857">
-		    <img alt="Cloud 3" class="cloud cloud-7" src="/LoveBirthday/static/img/cloud-7.png" width="470">
+		    <img alt="Cloud 1" class="cloud cloud-1" src="/static/img/cloud-1.png" width="300">
+		    <img alt="Cloud 2" class="cloud cloud-2" src="/static/img/cloud-2.png" width="347">
+		    <img alt="Cloud 3" class="cloud cloud-3" src="/static/img/cloud-3.png" width="470">
+		    <img alt="Cloud 4" class="cloud cloud-4" src="/static/img/cloud-4.png" width="762">
+		    <img alt="Cloud 5" class="cloud cloud-5" src="/static/img/cloud-5.png" width="589">
+		    <img alt="Cloud 6" class="cloud cloud-6" src="/static/img/cloud-6.png" width="857">
+		    <img alt="Cloud 3" class="cloud cloud-7" src="/static/img/cloud-7.png" width="470">
 			<div class="copy" style="margin-top: -75px;">
 				<h1> Vidhya Periyasamy </h1>
 			</div>
-			<div class="copy" id="bubble" style="background-image: url(/LoveBirthday/static/img/vidhu.jpg); background-repeat: no-repeat; background-position: center;">
+			<div class="copy" id="bubble" style="background-image: url(/static/img/vidhu.jpg); background-repeat: no-repeat; background-position: center;">
 			
 			</div>
 			
