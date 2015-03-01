@@ -24,7 +24,7 @@ var nodes = normalize(data);
 var force = d3.layout.force()
 				.nodes(nodes)
 				.size([width, height])
-				.gravity(5)
+				.gravity(.02)
 				.charge(0)
 				.on("tick", tick)
 				.start();
